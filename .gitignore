@@ -1,0 +1,9 @@
+settings.php
+*.html
+*.db
+.posts
+.posts.lock
+.project
+.settings/
+.idea/
+*error_log 
